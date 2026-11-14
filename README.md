@@ -75,6 +75,7 @@ Maintained by the team behind [Vicedex](https://vicedex.app). Other projects are
 - [Vicedex Release Time](https://vicedex.app/gta-6-release-time/) - Expected unlock time by time zone, with sources.
 - [Vicedex Countdown](https://vicedex.app/countdown/) - Countdown to launch day.
 - [GTA 6 Countdown](https://gta6countdown.com) - Countdown timer to launch day.
+- [Route Six](https://routesix.sitey.pk/unlock-time) - Unlock time on your own clock for every store region, with pages for countries that have no PlayStation Store.
 - [GTA 6 release date](https://vicedex.app/gta-6-release-date/) - Confirmed date and platforms.
 - [GTA 6 pre-load](https://vicedex.app/gta-6-preload/) - When pre-loading starts and how.
 - [GTA 6 file size](https://vicedex.app/gta-6-file-size/) - Download and install size per console.
