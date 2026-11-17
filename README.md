@@ -57,6 +57,7 @@ Maintained by the team behind [Vicedex](https://vicedex.app). Other projects are
 
 ## Guides and Checklists
 
+- [LaunchReady GTA VI Console Readiness Checklist](https://launchready-gaming.philipairlind.chatgpt.site/tools/console-ready-checklist/) - Free PS5/Xbox launch-preparation checklist with practical download and storage planning; independent fan resource.
 - [GTA 6 trophies and achievements](https://vicedex.app/gta-6-trophies/) - The trophy and achievement list.
 - [GTA 6 collectibles](https://vicedex.app/gta-6-collectibles/) - Collectible types and where to find them.
 - [GTA 6 missions](https://vicedex.app/gta-6-missions/) - The story mission list.
