@@ -109,6 +109,7 @@ Maintained by the team behind [Vicedex](https://vicedex.app). Other projects are
 - [Wikipedia: Grand Theft Auto VI](https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI) - Development history and sourced facts.
 - [GTA Wiki](https://gta.fandom.com/wiki/Grand_Theft_Auto_VI) - Fan wiki covering characters, places and vehicles.
 - [GTABase](https://www.gtabase.com/gta-6/) - Vehicles, weapons, characters and news.
+- [GTA VI HOW open data](https://gtasix.how/data/) - Every sourced GTA 6 fact as JSON, plus unlock times by time zone and edition prices as CSV, under CC BY 4.0.
 
 ## News
 
