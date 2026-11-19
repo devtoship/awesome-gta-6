@@ -52,6 +52,7 @@ Maintained by the team behind [Vicedex](https://vicedex.app). Other projects are
 - [ViceForge Map](https://viceforge.app/map) - Community-powered interactive map.
 - [GTA 6 map size](https://vicedex.app/gta-6-map-size/) - How big Leonida is compared with GTA 5.
 - [GTA 6 Map (gta-6-map.org)](https://gta-6-map.org) - Fan-made interactive map of Leonida and Vice City.
+- [GTA 6 Map (gta6map.me)](https://gta6map.me) - Free interactive map of Leonida with the six named regions, location markers, and satellite and atlas views.
 - [HeistMapper](https://heistmapper.com/gta-6/map/) - Interactive map with your own pins and a found tracker.
 - [MapGenie](https://mapgenie.io) - Interactive maps with collectible tracking across many games.
 
