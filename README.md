@@ -54,6 +54,7 @@ Maintained by the team behind [Vicedex](https://vicedex.app). Other projects are
 - [GTA 6 Map (gta-6-map.org)](https://gta-6-map.org) - Fan-made interactive map of Leonida and Vice City.
 - [HeistMapper](https://heistmapper.com/gta-6/map/) - Interactive map with your own pins and a found tracker.
 - [MapGenie](https://mapgenie.io) - Interactive maps with collectible tracking across many games.
+- [GTA 6 Real Map](https://gta6realmap.com/) - Free interactive Leonida and Vice City map with dual Standard/4K Street layers, 480 cards, 125 flamingos, WAiNK scans, and shareable local progress links.
 
 ## Guides and Checklists
 
