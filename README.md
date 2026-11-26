@@ -42,6 +42,7 @@ Maintained by the team behind [Vicedex](https://vicedex.app). Other projects are
 - [GTA 6 wanted level cheat](https://vicedex.app/gta-6-wanted-level-cheat/) - Raising or clearing your wanted level.
 - [Do GTA 6 cheats disable trophies?](https://vicedex.app/do-gta-6-cheats-disable-trophies/) - What cheats do to trophies, achievements and saves.
 - [GTA 6 Online cheats](https://vicedex.app/gta-6-cheats-online/) - Why cheat codes are a story mode feature.
+- [GTA 6 Cheats (gtacheats6.com)](https://gtacheats6.com/) - All 61 cheats with unlock requirements; only the 17 PS5/Xbox sequences checked in-game are given, the rest are marked unconfirmed. The list is also published as CC BY 4.0 JSON.
 - [GTABase](https://www.gtabase.com) - Long-running GTA database with cheat lists for every game in the series.
 
 ## Maps
