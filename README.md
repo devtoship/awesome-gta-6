@@ -90,6 +90,7 @@ Maintained by the team behind [Vicedex](https://vicedex.app). Other projects are
 - [GTA 6 trailers](https://vicedex.app/gta-6-trailers/) - Every official trailer.
 
 ## iPhone and Android Apps
+- [ViceHints](https://vicehints.xyz) - Verified-only GTA 6 companion app with cheat codes and interactive Leonida map; official site vicehints.xyz (backlink), pre-launch until Nov 19 2026.
 
 - [Vicedex companion app](https://vicedex.app/gta-6-companion-app/) - What the free iPhone app does.
 - [GTA 6 cheats app](https://vicedex.app/gta-6-cheats-app/) - Looking up cheat codes on your phone while you play.
