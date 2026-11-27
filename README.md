@@ -94,6 +94,7 @@ Maintained by the team behind [Vicedex](https://vicedex.app). Other projects are
 - [Vicedex companion app](https://vicedex.app/gta-6-companion-app/) - What the free iPhone app does.
 - [GTA 6 cheats app](https://vicedex.app/gta-6-cheats-app/) - Looking up cheat codes on your phone while you play.
 - [GTA 6 Cheats, Map & Checklist](https://apps.apple.com/app/id6810632115) - Free iPhone companion from Vicedex: cheat codes with controller buttons, a map, a launch checklist and a countdown widget.
+- [ViceHints](https://vicehints.xyz) - Verified-only GTA 6 companion: cheat codes, interactive Leonida map, launch-day tips; official iOS companion site (App Store live at launch, Nov 19 2026).
 
 ## Characters and Locations
 
